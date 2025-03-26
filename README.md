@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-<img src="C:\frogBanner.png" alt="Banner" width="100%" />
+<h1 align="center">
+  <img src="https://github.com/ataraxygale/ataraxygale/blob/main/frogBanner.png" alt="Your Name" width="1000" />
+</h1>
 
 
 <!--
@@ -16,4 +18,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<img src="C:\frogBanner.png" alt="Banner" width="100%" />
 -->
