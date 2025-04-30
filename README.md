@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center">
-  <img src="https://github.com/ataraxygale/ataraxygale/blob/main/frogBanner.png" alt="Your Name" width="1000" />
+  <img src="https://github.com/ataraxygale/ataraxygale/blob/main/frogBuildAnything2.png" alt="Your Name" width="1000" />
 </h1>
 
 
